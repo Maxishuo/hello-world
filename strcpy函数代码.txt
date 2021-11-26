@@ -11,3 +11,6 @@ char* StrCpy(char* src)
 	str[len + 1] = '\0';
 	return str;
 }
+/**
+远程Edit
+**/
